@@ -44,7 +44,7 @@ home_page = '''
     <a href="/section/2">◄ 3 – POST SERVER ►</a>
    </div>
    <div class="button-box">
-    <a href="/go/backup_post">◄ 4 – BACKUP POST SERVER ►</a>
+    <a href="/https://fi5.bot-hosting.net:22447">◄ 4 – BACKUP POST SERVER ►</a>
    </div>
    <div class="button-box">
     <a href="/section/3">◄ 5 – TOKEN CHECK VALIDITY ►</a>
